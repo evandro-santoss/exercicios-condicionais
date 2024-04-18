@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class ExercicioEstruturasCondicionais {
+public class Exercicio01 {
     public static void main(String[] args) {
      //1. Escreva um programa que recebe o ano de nascimento de uma pessoa e verifica se é maior de idade ou não (considerando que a maioridade seja aos 18 anos).
      
